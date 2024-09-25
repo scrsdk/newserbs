@@ -1,0 +1,10 @@
+[
+    {
+      "ip": "141.95.234.18",
+      "port": 1885,
+      "x2": false,
+      "name": "Phantom",
+      "online": 2,
+      "maxonline": 1000
+    }
+ ]
